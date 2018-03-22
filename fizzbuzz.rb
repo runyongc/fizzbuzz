@@ -5,6 +5,7 @@
 			puts "fizz"
 		elsif (i % 5 == 0)
 			puts "buzz"
-		else puts i	
+		else 
+			puts i	
 	end
 end
